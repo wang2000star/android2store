@@ -100,7 +100,7 @@
 <path d="M900 710 V750" fill="none" stroke="#60718B" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#arrow)"/>
 <rect x="380" y="750" width="1040" height="96" rx="12" fill="#EDF3FF" stroke="#8EADD8" stroke-width="1.4"/>
 <text x="900.0" y="791.7" text-anchor="middle" fill="#182B49" font-size="22" font-weight="600">共同汇合：集成验收 + 提审材料冻结</text>
-<text x="900.0" y="819.7" text-anchor="middle" fill="#182B49" font-size="22" font-weight="600">本次提审所需输入全部就绪，功能可审核，资料与最终包一致</text>
+<text x="900.0" y="819.7" text-anchor="middle" fill="#182B49" font-size="22" font-weight="600">本次提审所需输入全部就绪，内测闭环，功能可审核，资料与最终包一致</text>
 <rect x="1460" y="750" width="270" height="96" rx="12" fill="#FFF0EF" stroke="#D6A09B" stroke-width="1.4"/>
 <text x="1595.0" y="789.95" text-anchor="middle" fill="#182B49" font-size="17" font-weight="400">未通过：返回责任工作流</text>
 <text x="1595.0" y="817.95" text-anchor="middle" fill="#182B49" font-size="17" font-weight="400">修复后重新验收</text>
