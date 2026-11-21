@@ -184,8 +184,8 @@
 <text x="100" y="1714" text-anchor="start" fill="#182B49" font-size="21" font-weight="700">读图说明</text>
 <text x="100" y="1748" text-anchor="start" fill="#52637B" font-size="17" font-weight="400">① APP 备案依赖稳定的主体、名称、包名、签名 / 公钥摘要、域名与接入资料；可以与剩余功能开发并行。</text>
 <text x="100" y="1775" text-anchor="start" fill="#52637B" font-size="17" font-weight="400">② 支付、登录等平台使用正式应用身份；支付与上架链接的交叉依赖，走官方认可的未上线申请或审核路径。</text>
-<text x="100" y="1802" text-anchor="start" fill="#52637B" font-size="17" font-weight="400">资质未就绪的业务只有在可独立拆分、且前后端真实关闭时才能延后；核心业务准入未解决会阻断首发。</text>
+<text x="100" y="1802" text-anchor="start" fill="#52637B" font-size="17" font-weight="400">功能范围决定流程分支：每增加交易、平台、内容或直播能力，可能新增独立许可、系统能力与持续义务；资质未就绪的业务须可独立拆分且前后端真实关闭。</text>
 <text x="100" y="1829" text-anchor="start" fill="#52637B" font-size="17" font-weight="400">实线表示正常推进；橙色虚线表示关键材料依赖。所有公开发布均须先满足本次实际开放业务的前置条件。</text>
 <text x="70" y="1889" text-anchor="start" fill="#52637B" font-size="17" font-weight="400">范围：不含华为、鸿蒙及旧系统华为设备；荣耀保留。扩展渠道详见指南第 14 章。</text>
-<text x="1730" y="1889" text-anchor="end" fill="#52637B" font-size="17" font-weight="400">配套：咕咕嘎嘎(gugugaga)：中国大陆安卓上架与运营准备全流程指南 §18.1</text>
+<text x="1730" y="1889" text-anchor="end" fill="#52637B" font-size="17" font-weight="400">配套：咕咕嘎嘎(gugugaga)：中国大陆安卓上架与运营准备全流程指南 §2.4、§18.1</text>
 </g></svg>
