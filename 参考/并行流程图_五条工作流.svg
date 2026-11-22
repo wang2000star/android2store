@@ -123,7 +123,7 @@
 <text x="70" y="931" text-anchor="start" fill="#52637B" font-size="16" font-weight="400">内测关闭前不提审</text>
 <path d="M900 976 V996" fill="none" stroke="#60718B" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#arrow)"/>
 <rect x="380" y="996" width="1040" height="48" rx="12" fill="#17365E" stroke="#17365E" stroke-width="1.4"/>
-<text x="900.0" y="1026.7" text-anchor="middle" fill="#FFFFFF" font-size="20" font-weight="600">门禁：内测关闭 / 提审包冻结 ＝ 01 → 02 分界点</text>
+<text x="900.0" y="1026.7" text-anchor="middle" fill="#FFFFFF" font-size="20" font-weight="600">门禁：内测关闭 / 提审包冻结 ＝ 提审前唯一分界点</text>
 <path d="M900 1044 V1070" fill="none" stroke="#60718B" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
 <path d="M900 1102 V1123" fill="none" stroke="#60718B" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
 <path d="M228 1123 H1572" fill="none" stroke="#60718B" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
@@ -200,7 +200,7 @@
 <text x="100" y="1938" text-anchor="start" fill="#52637B" font-size="17" font-weight="400">① APP 备案依赖稳定的主体、名称、包名、签名 / 公钥摘要、域名与接入资料；可以与剩余功能开发并行。</text>
 <text x="100" y="1965" text-anchor="start" fill="#52637B" font-size="17" font-weight="400">② 支付、登录等平台使用正式应用身份；支付与上架链接的交叉依赖，走官方认可的未上线申请或审核路径。</text>
 <text x="100" y="1992" text-anchor="start" fill="#52637B" font-size="17" font-weight="400">③ 功能范围决定流程分支：每增加交易、平台、内容或直播能力，可能新增独立许可、系统能力与持续义务；资质未就绪的业务须可独立拆分且前后端真实关闭。</text>
-<text x="100" y="2019" text-anchor="start" fill="#52637B" font-size="17" font-weight="400">④ 实线表示正常推进；橙色虚线表示关键材料依赖。上架前内测与提审以「内测关闭／提审包冻结」为界，之前见 01、之后见 02；公开发布前须落实收款关系、支付准入与财税结论。</text>
+<text x="100" y="2019" text-anchor="start" fill="#52637B" font-size="17" font-weight="400">④ 实线表示正常推进；橙色虚线表示关键材料依赖。上架前内测与提审以「内测关闭／提审包冻结」为界，前后两段均在《安卓上架SOP.md》中；公开发布前须落实收款关系、支付准入与财税结论。</text>
 <text x="70" y="2079" text-anchor="start" fill="#52637B" font-size="17" font-weight="400">范围：不含华为、鸿蒙及旧系统华为设备；荣耀保留。扩展渠道详见指南第 14 章。</text>
-<text x="1730" y="2079" text-anchor="end" fill="#52637B" font-size="17" font-weight="400">配套：01 内测前准备与内测执行 / 02 提审发布与上线后；指南 §2.4–2.5、§17.6–17.7、§18.1</text>
+<text x="1730" y="2079" text-anchor="end" fill="#52637B" font-size="17" font-weight="400">配套：安卓上架SOP.md（执行）/ 参考详细合规手册.md（依据）；手册 §2.4–2.5、§17.6–17.7、§18.1</text>
 </g></svg>
