@@ -72,5 +72,5 @@
   <text x="182" y="834" font-size="12.5" fill="#57606a">报送日历、资质复核、变更复核、许可续期，逐项留存回执。</text>
   <text x="920" y="826" font-size="12" fill="#8b949e" text-anchor="end">合规＋运营</text>
 
-  <text x="96" y="878" font-size="11.5" fill="#8b949e">绿框为内测阶段，红框为流程门禁。细则见《参考/详细合规手册.md》相应章节。</text>
+  <text x="96" y="878" font-size="11.5" fill="#8b949e">绿框为内测阶段，红框为流程门禁。各阶段操作步骤见《安卓上架SOP.md》。</text>
 </svg>
