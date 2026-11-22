@@ -2,86 +2,75 @@
   <rect x="0" y="0" width="1000" height="900" fill="#ffffff"/>
 
   <text x="60" y="52" font-size="26" font-weight="700" fill="#1f2328">安卓上架九个阶段（中国大陆渠道）</text>
-  <text x="60" y="82" font-size="13" fill="#6b7280">咕咕嘎嘎(gugugaga) · 执行版 SOP 配套图 · 不含华为／鸿蒙与 Google Play</text>
+  <text x="60" y="82" font-size="13" fill="#6b7280">咕咕嘎嘎(gugugaga) · 不含华为／鸿蒙与 Google Play</text>
 
-  <!-- 时间轴线 -->
   <line x1="120" y1="132" x2="120" y2="838" stroke="#d5dae1" stroke-width="2"/>
 
-  <!-- 阶段 1 -->
   <circle cx="120" cy="160" r="19" fill="#0b6bcb"/>
   <text x="120" y="166" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
   <rect x="160" y="134" width="780" height="52" rx="8" fill="#f7f9fb" stroke="#e3e8ef"/>
-  <text x="182" y="155" font-size="15" font-weight="700" fill="#1f2328">定范围</text>
-  <text x="182" y="174" font-size="12.5" fill="#57606a">选原型、勾开关 → 签字《首发范围单》。范围没定，后面全白做。</text>
+  <text x="182" y="155" font-size="15" font-weight="700" fill="#1f2328">确定范围</text>
+  <text x="182" y="174" font-size="12.5" fill="#57606a">确定首发功能、收费方式与业务定性，签字《首发范围单》。</text>
   <text x="920" y="166" font-size="12" fill="#8b949e" text-anchor="end">产品负责人</text>
 
-  <!-- 阶段 2 -->
   <circle cx="120" cy="235" r="19" fill="#0b6bcb"/>
   <text x="120" y="241" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
   <rect x="160" y="209" width="780" height="52" rx="8" fill="#f7f9fb" stroke="#e3e8ef"/>
-  <text x="182" y="230" font-size="15" font-weight="700" fill="#1f2328">定主体与资产</text>
-  <text x="182" y="249" font-size="12.5" fill="#57606a">营业执照、商标、软著；包名与签名一次定死，写进台账。</text>
+  <text x="182" y="230" font-size="15" font-weight="700" fill="#1f2328">主体与资产</text>
+  <text x="182" y="249" font-size="12.5" fill="#57606a">执照、股权、商标、软著；固定包名与签名并登记台账。</text>
   <text x="920" y="241" font-size="12" fill="#8b949e" text-anchor="end">法务／行政</text>
 
-  <!-- 阶段 3 -->
   <circle cx="120" cy="310" r="19" fill="#0b6bcb"/>
   <text x="120" y="316" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
   <rect x="160" y="284" width="780" height="52" rx="8" fill="#f7f9fb" stroke="#e3e8ef"/>
-  <text x="182" y="305" font-size="15" font-weight="700" fill="#1f2328">办备案与许可</text>
-  <text x="182" y="324" font-size="12.5" fill="#57606a">域名实名 → APP 备案 → ICP／EDI 判定 → 行业许可 → 公安联网备案。</text>
+  <text x="182" y="305" font-size="15" font-weight="700" fill="#1f2328">备案与许可</text>
+  <text x="182" y="324" font-size="12.5" fill="#57606a">域名实名 → APP 备案 → ICP／EDI → 行业许可 → 公安联网备案。</text>
   <text x="920" y="316" font-size="12" fill="#8b949e" text-anchor="end">法务／行政</text>
 
-  <!-- 阶段 4 -->
   <circle cx="120" cy="385" r="19" fill="#0b6bcb"/>
   <text x="120" y="391" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
   <rect x="160" y="359" width="780" height="52" rx="8" fill="#fffdf5" stroke="#f0e0b8"/>
-  <text x="182" y="380" font-size="15" font-weight="700" fill="#1f2328">定钱的路径</text>
-  <text x="182" y="399" font-size="12.5" fill="#57606a">谁收钱、谁结算、谁开票、谁报税：四张图 + 两份书面结论。</text>
+  <text x="182" y="380" font-size="15" font-weight="700" fill="#1f2328">资金路径</text>
+  <text x="182" y="399" font-size="12.5" fill="#57606a">收款、结算、开票、报税关系：四张流程图与两份书面结论。</text>
   <text x="920" y="391" font-size="12" fill="#8b949e" text-anchor="end">财务负责人</text>
 
-  <!-- 阶段 5 -->
   <circle cx="120" cy="460" r="19" fill="#0b6bcb"/>
   <text x="120" y="466" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">5</text>
   <rect x="160" y="434" width="780" height="52" rx="8" fill="#f7f9fb" stroke="#e3e8ef"/>
-  <text x="182" y="455" font-size="15" font-weight="700" fill="#1f2328">建产品与后台</text>
-  <text x="182" y="474" font-size="12.5" fill="#57606a">用户端页面齐 + 后台真能处理：订单、退款、对账、审核、注销。</text>
+  <text x="182" y="455" font-size="15" font-weight="700" fill="#1f2328">产品与后台</text>
+  <text x="182" y="474" font-size="12.5" fill="#57606a">用户端页面齐备；后台可处理订单、退款、对账、审核、注销。</text>
   <text x="920" y="466" font-size="12" fill="#8b949e" text-anchor="end">技术负责人</text>
 
-  <!-- 阶段 6 -->
   <circle cx="120" cy="535" r="19" fill="#0b6bcb"/>
   <text x="120" y="541" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">6</text>
   <rect x="160" y="509" width="780" height="52" rx="8" fill="#f7f9fb" stroke="#e3e8ef"/>
-  <text x="182" y="530" font-size="15" font-weight="700" fill="#1f2328">测与备料</text>
+  <text x="182" y="530" font-size="15" font-weight="700" fill="#1f2328">测试与备料</text>
   <text x="182" y="549" font-size="12.5" fill="#57606a">真机负向用例、SDK 与隐私检测、材料母版、审核测试账号。</text>
   <text x="920" y="541" font-size="12" fill="#8b949e" text-anchor="end">技术负责人</text>
 
-  <!-- 阶段 7 -->
   <circle cx="120" cy="610" r="19" fill="#0f7b5f"/>
   <text x="120" y="616" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">7</text>
   <rect x="160" y="584" width="780" height="52" rx="8" fill="#f2faf7" stroke="#bfe3d6"/>
   <text x="182" y="605" font-size="15" font-weight="700" fill="#1f2328">上架前内测</text>
-  <text x="182" y="624" font-size="12.5" fill="#57606a">真实用户跑八项核心操作，修复复测后冻结提审包。</text>
+  <text x="182" y="624" font-size="12.5" fill="#57606a">真实用户验证八项核心操作，问题闭环后冻结提审包。</text>
   <text x="920" y="616" font-size="12" fill="#8b949e" text-anchor="end">技术＋产品</text>
 
-  <!-- 门禁 -->
   <rect x="96" y="662" width="844" height="46" rx="6" fill="#fff1f0" stroke="#e8a29b" stroke-width="1.5" stroke-dasharray="6 4"/>
-  <text x="518" y="690" font-size="14" font-weight="700" fill="#b42318" text-anchor="middle">门禁：内测关闭 · 提审包冻结 —— 过了这条线，才允许向商店提交</text>
+  <text x="518" y="690" font-size="14" font-weight="700" fill="#b42318" text-anchor="middle">门禁：内测关闭 · 提审包冻结 —— 通过后方可向商店提交</text>
 
-  <!-- 阶段 8 -->
   <circle cx="120" cy="745" r="19" fill="#0b6bcb"/>
   <text x="120" y="751" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">8</text>
   <rect x="160" y="719" width="780" height="52" rx="8" fill="#f7f9fb" stroke="#e3e8ef"/>
   <text x="182" y="740" font-size="15" font-weight="700" fill="#1f2328">提审与发布</text>
-  <text x="182" y="759" font-size="12.5" fill="#57606a">逐渠道提交 → 选发布方式（立即／定时／手动）→ 真机下载验收。</text>
+  <text x="182" y="759" font-size="12.5" fill="#57606a">逐渠道提交 → 选定发布方式（立即／定时／手动）→ 真机验收。</text>
   <text x="920" y="751" font-size="12" fill="#8b949e" text-anchor="end">渠道负责人</text>
 
-  <!-- 阶段 9 -->
   <circle cx="120" cy="820" r="19" fill="#0b6bcb"/>
   <text x="120" y="826" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">9</text>
   <rect x="160" y="794" width="780" height="52" rx="8" fill="#f7f9fb" stroke="#e3e8ef"/>
   <text x="182" y="815" font-size="15" font-weight="700" fill="#1f2328">上线后</text>
-  <text x="182" y="834" font-size="12.5" fill="#57606a">报送日历、资质复核、变更复核、许可续期 —— 每项有负责人和回执。</text>
+  <text x="182" y="834" font-size="12.5" fill="#57606a">报送日历、资质复核、变更复核、许可续期，逐项留存回执。</text>
   <text x="920" y="826" font-size="12" fill="#8b949e" text-anchor="end">合规＋运营</text>
 
-  <text x="96" y="878" font-size="11.5" fill="#8b949e">绿框 = 内测阶段；红框 = 全流程唯一硬门禁。详细执行步骤见《安卓上架SOP.md》，依据查《参考/详细合规手册.md》。</text>
+  <text x="96" y="878" font-size="11.5" fill="#8b949e">绿框为内测阶段，红框为流程门禁。细则见《参考/详细合规手册.md》相应章节。</text>
 </svg>
