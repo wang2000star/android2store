@@ -1,69 +1,62 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="815" viewBox="0 0 1000 815" font-family="Microsoft YaHei, PingFang SC, Noto Sans SC, sans-serif">
-  <rect x="0" y="0" width="1000" height="815" fill="#ffffff"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="835" viewBox="0 0 1000 835" font-family="Microsoft YaHei, PingFang SC, Noto Sans SC, sans-serif">
+  <rect x="0" y="0" width="1000" height="835" fill="#ffffff"/>
 
-  <text x="60" y="52" font-size="26" font-weight="700" fill="#1f2328">安卓应用上架标准流程（中国大陆渠道）</text>
-  <text x="60" y="82" font-size="13" fill="#6b7280">适用渠道：小米、荣耀、OPPO、vivo、应用宝、三星、魅族 · 不含华为／鸿蒙与 Google Play</text>
+  <text x="60" y="50" font-size="26" font-weight="700" fill="#1f2328">AI 内容创作、数字交易与直播平台安卓上架流程</text>
+  <text x="60" y="78" font-size="13" fill="#6b7280">适用渠道：小米、荣耀、OPPO、vivo、应用宝、三星、魅族 · 不含华为／鸿蒙与 Google Play</text>
+  <text x="60" y="100" font-size="12.5" font-weight="700" fill="#0b6bcb">时间分界：第 1–6 步（含内测）在最终正式版出来前并行完成；内测闭环后出正式版进入第 7–8 步。</text>
 
-  <line x1="120" y1="132" x2="120" y2="771" stroke="#d5dae1" stroke-width="2"/>
+  <line x1="120" y1="142" x2="120" y2="785" stroke="#d5dae1" stroke-width="2"/>
 
-  <circle cx="120" cy="160" r="19" fill="#0b6bcb"/>
-  <text x="120" y="166" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
-  <rect x="160" y="134" width="780" height="52" rx="8" fill="#f7f9fb" stroke="#e3e8ef"/>
-  <text x="182" y="155" font-size="15" font-weight="700" fill="#1f2328">确定首发范围</text>
-  <text x="182" y="174" font-size="12.5" fill="#57606a">明确首发功能、收费方式与业务定性，会签《首发范围单》。</text>
-  <text x="920" y="166" font-size="12" fill="#8b949e" text-anchor="end">产品负责人</text>
+  <circle cx="120" cy="170" r="19" fill="#0b6bcb"/>
+  <text x="120" y="176" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+  <rect x="160" y="144" width="780" height="52" rx="8" fill="#f7f9fb" stroke="#e3e8ef"/>
+  <text x="182" y="165" font-size="15" font-weight="700" fill="#1f2328">正式版出来前：主体自查、材料包、固定包名签名、7 大商店账号认证</text>
+  <text x="182" y="184" font-size="12.5" fill="#57606a">核验 100 万注册资本／经营范围／3 人社保；生成 release.jks；注册认证 7 大商店企业账号。</text>
 
-  <circle cx="120" cy="235" r="19" fill="#0b6bcb"/>
-  <text x="120" y="241" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
-  <rect x="160" y="209" width="780" height="52" rx="8" fill="#f7f9fb" stroke="#e3e8ef"/>
-  <text x="182" y="230" font-size="15" font-weight="700" fill="#1f2328">固定主体与应用资产</text>
-  <text x="182" y="249" font-size="12.5" fill="#57606a">核验主体、知产与企业开发者账号；固定包名与签名并建立台账。</text>
-  <text x="920" y="241" font-size="12" fill="#8b949e" text-anchor="end">法务／合规</text>
+  <circle cx="120" cy="245" r="19" fill="#0b6bcb"/>
+  <text x="120" y="251" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+  <rect x="160" y="219" width="780" height="52" rx="8" fill="#f7f9fb" stroke="#e3e8ef"/>
+  <text x="182" y="240" font-size="15" font-weight="700" fill="#1f2328">正式版出来前：域名／HTTPS 证书、网站与 APP 备案、EDI／ICP、AI 备案、三级等保</text>
+  <text x="182" y="259" font-size="12.5" fill="#57606a">办 APP 与公安备案；启动 EDI／ICP、生成式 AI 服务备案／登记、深度合成算法备案及三级等保。</text>
 
-  <circle cx="120" cy="310" r="19" fill="#0b6bcb"/>
-  <text x="120" y="316" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
-  <rect x="160" y="284" width="780" height="52" rx="8" fill="#f7f9fb" stroke="#e3e8ef"/>
-  <text x="182" y="305" font-size="15" font-weight="700" fill="#1f2328">办理备案与许可</text>
-  <text x="182" y="324" font-size="12.5" fill="#57606a">域名实名 → APP 备案 → ICP／EDI → 行业许可 → 公安联网备案。</text>
-  <text x="920" y="316" font-size="12" fill="#8b949e" text-anchor="end">法务／合规</text>
+  <circle cx="120" cy="320" r="19" fill="#0b6bcb"/>
+  <text x="120" y="326" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+  <rect x="160" y="294" width="780" height="52" rx="8" fill="#f7f9fb" stroke="#e3e8ef"/>
+  <text x="182" y="315" font-size="15" font-weight="700" fill="#1f2328">正式版出来前：APP 电子软著 + 商标注册（第 9／35／42 类）</text>
+  <text x="182" y="334" font-size="12.5" fill="#57606a">核心代码与界面成型即可整理鉴别材料提交电子软著，同步完成商标近似检索与申请。</text>
 
-  <circle cx="120" cy="385" r="19" fill="#0b6bcb"/>
-  <text x="120" y="391" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
-  <rect x="160" y="359" width="780" height="52" rx="8" fill="#fffdf5" stroke="#f0e0b8"/>
-  <text x="182" y="380" font-size="15" font-weight="700" fill="#1f2328">确定资金与财税路径</text>
-  <text x="182" y="399" font-size="12.5" fill="#57606a">收款、结算、开票、报税关系：四张流程图与两份书面结论。</text>
-  <text x="920" y="391" font-size="12" fill="#8b949e" text-anchor="end">财务负责人</text>
+  <circle cx="120" cy="395" r="19" fill="#0b6bcb"/>
+  <text x="120" y="401" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+  <rect x="160" y="369" width="780" height="52" rx="8" fill="#fffdf5" stroke="#f0e0b8"/>
+  <text x="182" y="390" font-size="15" font-weight="700" fill="#1f2328">正式版出来前：平台分账支付（微信平台收付通／支付宝直付通／银行卡）</text>
+  <text x="182" y="409" font-size="12.5" fill="#57606a">严禁二清！凭 APP 备案号与 EDI 开通微信／支付宝／银联银行卡分账支付、退款回退与涉税口径。</text>
 
-  <circle cx="120" cy="460" r="19" fill="#0b6bcb"/>
-  <text x="120" y="466" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">5</text>
-  <rect x="160" y="434" width="780" height="52" rx="8" fill="#f7f9fb" stroke="#e3e8ef"/>
-  <text x="182" y="455" font-size="15" font-weight="700" fill="#1f2328">完成用户端与后台能力</text>
-  <text x="182" y="474" font-size="12.5" fill="#57606a">用户端合规入口齐备；后台支持订单、退款、对账、审核与注销闭环。</text>
-  <text x="920" y="466" font-size="12" fill="#8b949e" text-anchor="end">技术负责人</text>
+  <circle cx="120" cy="470" r="19" fill="#0b6bcb"/>
+  <text x="120" y="476" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">5</text>
+  <rect x="160" y="444" width="780" height="52" rx="8" fill="#f7f9fb" stroke="#e3e8ef"/>
+  <text x="182" y="465" font-size="15" font-weight="700" fill="#1f2328">正式版出来前：推送、大模型 API、直播云、AI 显隐式标识与平台后台</text>
+  <text x="182" y="484" font-size="12.5" fill="#57606a">接大陆模型 API（拿备案号）、AI 输入输出双审与显隐式标识、私有桶防盗链、腾讯云人脸核身与断流。</text>
 
-  <circle cx="120" cy="535" r="19" fill="#0b6bcb"/>
-  <text x="120" y="541" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">6</text>
-  <rect x="160" y="509" width="780" height="52" rx="8" fill="#f7f9fb" stroke="#e3e8ef"/>
-  <text x="182" y="530" font-size="15" font-weight="700" fill="#1f2328">制作提审包与真机测试</text>
-  <text x="182" y="549" font-size="12.5" fill="#57606a">真机负向用例、SDK 与隐私检测、材料母版、生产审核测试账号。</text>
-  <text x="920" y="541" font-size="12" fill="#8b949e" text-anchor="end">技术负责人</text>
+  <circle cx="120" cy="545" r="19" fill="#0f7b5f"/>
+  <text x="120" y="551" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">6</text>
+  <rect x="160" y="519" width="780" height="52" rx="8" fill="#f2faf7" stroke="#bfe3d6"/>
+  <text x="182" y="540" font-size="15" font-weight="700" fill="#1f2328">上架前内测（内测包）：真机负向、防抢跑、支付退款、AI 标识与直播</text>
+  <text x="182" y="559" font-size="12.5" fill="#57606a">跑通三渠道小额支付退款、防盗链下载、Prompt 拦截与转码后 AI 标识保留、断流录播，P0／P1 清零。</text>
 
-  <circle cx="120" cy="610" r="19" fill="#0f7b5f"/>
-  <text x="120" y="616" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">7</text>
-  <rect x="160" y="584" width="780" height="52" rx="8" fill="#f2faf7" stroke="#bfe3d6"/>
-  <text x="182" y="605" font-size="15" font-weight="700" fill="#1f2328">上架前内测</text>
-  <text x="182" y="624" font-size="12.5" fill="#57606a">真实用户验证核心操作与小额真实交易，问题闭环后准备冻结。</text>
-  <text x="920" y="616" font-size="12" fill="#8b949e" text-anchor="end">技术负责人</text>
+  <circle cx="120" cy="620" r="19" fill="#0b6bcb"/>
+  <text x="120" y="626" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">7</text>
+  <rect x="160" y="594" width="780" height="52" rx="8" fill="#f7f9fb" stroke="#e3e8ef"/>
+  <text x="182" y="615" font-size="15" font-weight="700" fill="#1f2328">内测通过后出正式版：验签、64 位检查与材料母版定稿</text>
+  <text x="182" y="634" font-size="12.5" fill="#57606a">编译最终正式版 Release APK，执行 apksigner 验签与 64 位检查，定稿母版与生产审核测试账号。</text>
 
-  <rect x="96" y="662" width="844" height="46" rx="6" fill="#fff1f0" stroke="#e8a29b" stroke-width="1.5" stroke-dasharray="6 4"/>
-  <text x="518" y="690" font-size="14" font-weight="700" fill="#b42318" text-anchor="middle">门禁：内测关闭与提审包冻结（项目负责人签批）—— 通过后方可提审</text>
+  <rect x="96" y="672" width="844" height="46" rx="6" fill="#fff1f0" stroke="#e8a29b" stroke-width="1.5" stroke-dasharray="6 4"/>
+  <text x="518" y="700" font-size="14" font-weight="700" fill="#b42318" text-anchor="middle">门禁：冻结正式版提审包（登记 SHA-256 散列值，冻结后严禁改动）—— 通过后立即提审</text>
 
-  <circle cx="120" cy="745" r="19" fill="#0b6bcb"/>
-  <text x="120" y="751" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">8</text>
-  <rect x="160" y="719" width="780" height="52" rx="8" fill="#f7f9fb" stroke="#e3e8ef"/>
-  <text x="182" y="740" font-size="15" font-weight="700" fill="#1f2328">提审、发布与验收</text>
-  <text x="182" y="759" font-size="12.5" fill="#57606a">逐渠道提交 → 选定发布方式（立即／定时／手动）→ 真机验收。</text>
-  <text x="920" y="751" font-size="12" fill="#8b949e" text-anchor="end">渠道负责人</text>
+  <circle cx="120" cy="755" r="19" fill="#0b6bcb"/>
+  <text x="120" y="761" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">8</text>
+  <rect x="160" y="729" width="780" height="52" rx="8" fill="#f7f9fb" stroke="#e3e8ef"/>
+  <text x="182" y="750" font-size="15" font-weight="700" fill="#1f2328">已有正式版：7 大商店传包提审、发布与真机验收</text>
+  <text x="182" y="769" font-size="12.5" fill="#57606a">登录已认证好的商店账号上传冻结包 → 选定立即／定时／手动发布 → 对应品牌真机验收。</text>
 
-  <text x="96" y="795" font-size="11.5" fill="#8b949e">黄框为资金合规阶段（纯免费无交易应用可跳过），绿框为内测阶段，红框为发布门禁。</text>
+  <text x="96" y="815" font-size="11.5" fill="#8b949e">黄框为平台分账支付阶段（严禁二清），绿框为内测阶段，红框为冻包门禁。</text>
 </svg>
