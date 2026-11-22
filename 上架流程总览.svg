@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="900" viewBox="0 0 1000 900" font-family="Microsoft YaHei, PingFang SC, Noto Sans SC, sans-serif">
-  <rect x="0" y="0" width="1000" height="900" fill="#ffffff"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="815" viewBox="0 0 1000 815" font-family="Microsoft YaHei, PingFang SC, Noto Sans SC, sans-serif">
+  <rect x="0" y="0" width="1000" height="815" fill="#ffffff"/>
 
-  <text x="60" y="52" font-size="26" font-weight="700" fill="#1f2328">安卓上架九个阶段（中国大陆渠道）</text>
+  <text x="60" y="52" font-size="26" font-weight="700" fill="#1f2328">安卓上架八个阶段（中国大陆渠道）</text>
   <text x="60" y="82" font-size="13" fill="#6b7280">咕咕嘎嘎(gugugaga) · 不含华为／鸿蒙与 Google Play</text>
 
-  <line x1="120" y1="132" x2="120" y2="838" stroke="#d5dae1" stroke-width="2"/>
+  <line x1="120" y1="132" x2="120" y2="771" stroke="#d5dae1" stroke-width="2"/>
 
   <circle cx="120" cy="160" r="19" fill="#0b6bcb"/>
   <text x="120" y="166" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
@@ -65,12 +65,6 @@
   <text x="182" y="759" font-size="12.5" fill="#57606a">逐渠道提交 → 选定发布方式（立即／定时／手动）→ 真机验收。</text>
   <text x="920" y="751" font-size="12" fill="#8b949e" text-anchor="end">渠道负责人</text>
 
-  <circle cx="120" cy="820" r="19" fill="#0b6bcb"/>
-  <text x="120" y="826" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">9</text>
-  <rect x="160" y="794" width="780" height="52" rx="8" fill="#f7f9fb" stroke="#e3e8ef"/>
-  <text x="182" y="815" font-size="15" font-weight="700" fill="#1f2328">上线后</text>
-  <text x="182" y="834" font-size="12.5" fill="#57606a">报送日历、资质复核、变更复核、许可续期，逐项留存回执。</text>
-  <text x="920" y="826" font-size="12" fill="#8b949e" text-anchor="end">合规＋运营</text>
 
-  <text x="96" y="878" font-size="11.5" fill="#8b949e">绿框为内测阶段，红框为流程门禁。</text>
+  <text x="96" y="795" font-size="11.5" fill="#8b949e">绿框为内测阶段，红框为流程门禁。</text>
 </svg>
